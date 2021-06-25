@@ -20,7 +20,7 @@
 }
 
 .box3 {
-    /* align-self: center; */
+    align-self: center;
     grid-column: 2/4;
     grid-row: 3;
 }
